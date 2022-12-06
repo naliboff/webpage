@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Naliboff"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "John Naliboff"
 description              : &description "personal description"
-url                      : https://naliboff.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://naliboff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "naliboff/johnnaliboff.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
